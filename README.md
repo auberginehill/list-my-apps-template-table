@@ -23,15 +23,12 @@
    |  [file_footer.txt](file_footer.txt)  |  "List footer, may be blank"                                |
    |  [all_in_one.txt](all_in_one.txt)    |  Contains all the above mentioned three parts in one file.  |
 
-- A template inside a template doesn't work that well with variables that need to be presented "as they are" in code i.e. not triggered when running the actual script.
+- After a HTML-file has been created, the template included in the bottom of that file is limited (a template inside a template describing the template that describes the template and so on...). If that limited template of the created HTML-file is to be used as a template in 'List My Apps' -app:
+   - All instances of [dollar_sign] need to be changed with $
+   - File Footer ends before [End Of Line].
 
- - In 'List My Apps' -app [dollar_sign] should be left as they are(, if the template code has been copied from this page (i.e. <https://github.com/auberginehill/list-my-apps-template-table>)).
+- However, if the template code has been copied from this project (i.e. <https://github.com/auberginehill/list-my-apps-template-table>) instances of [dollar_sign] should be left as they are.
 
- - After a HTML-file has been created, the template included in the bottom of that file is limited. If that limited template of the created HTML-file is to be used as a template in 'List My Apps' -app:
-
-    - All instances of [dollar_sign] need to be changed with $
-    - File Footer ends before [End Of Line].
-    
 
 
 #### Tutorial
@@ -55,7 +52,7 @@ To open this code with an Android device, for instance:
 4. Go back to the 'List My Apps' -app's home screen and select the name that was created in Step 2 from the 'Copy/Share as:' -dropdown menu. Please also select the apps that you'd like to be included in the list. [[Screenshot](http://groovyandroid.com/wp-content/uploads/2013/10/List-My-App-HTML-list.png)]
 
 5. 'Run' the 'List My Apps' -app with the new template by copying the app data to Clipboard \[Copy\] (since direct sharing may not work, if a lot of applications has been installed).
-   - There seems to be some kind of a limit, how much data the Clipboard can contain. With verbose templates ~200 apps might be the upper limit, but with a simple template, the Clipboard clearly is capable of containing considerably more apps.
+   - There seems to be some kind of a limit, how much data the Android Clipboard can contain. With verbose templates ~200 apps might be the upper limit, but with a simple template, the Clipboard clearly is capable of containing considerably more apps.
 
 6. Open an HTML editor, such as [DroidEdit Free](https://play.google.com/store/apps/details?id=com.aor.droidedit).
 
@@ -65,10 +62,10 @@ To open this code with an Android device, for instance:
 
 8. Save the file as an HTML-file, for example as 'Installed_Apps.html', for example in 'Home/Documents' folder (a filename without any spaces is recommended).
 
-9. Open the HTML-file with an appropriate app, such as a browser by surfing directly to the file location, which could, for instance, be: <file:///storage/emulated/0/Documents/Installed_Apps.html>
+9. Open the HTML-file with an appropriate app, such as a browser by surfing directly to the file location, which could, for instance, be: file:///storage/emulated/0/Documents/Installed_Apps.html
    - In a browser the spaces in the filename can be replaced with %20 to make the link work (there's an underscore in the example file's file name (and URL) above instead of a space character). For more exotic filename characters, see [HTML URL Encoding Reference](http://www.w3schools.com/tags/ref_urlencode.asp).
 
-10. Conversion from .html to .pdf might work with [Firefox (for Android)](https://play.google.com/store/apps/details?id=org.mozilla.firefox) (Options (three dots) &rarr; Page &rarr; Save as PDF) or perhaps with the printing option in the default File Manager.
+10. Conversion from .html to .pdf might work with [Firefox (for Android)](https://play.google.com/store/apps/details?id=org.mozilla.firefox) (Options (three dots) &rarr; Page &rarr; Save as PDF) or perhaps with the printing option in the default Android File Manager.
   
    |             |                                          |
    |  --------   |  -------------                           |
