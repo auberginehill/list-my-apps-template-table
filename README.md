@@ -68,7 +68,10 @@ To open this code with an Android device, for instance:
 
 
 #### Contributing
-Find a bug? Have a feature request? Please [create an Issue](https://github.com/auberginehill/list-my-apps-template-table/issues).
+Find a bug? Have a feature request? Here is how you can contribute to this List My Apps Template -project: 
+- [Submit bugs](https://github.com/auberginehill/list-my-apps-template-table/issues) and by help us verify fixes.
+- Feature request can be submitted by [creating an Issue](https://github.com/auberginehill/list-my-apps-template-table/issues).
+- [Submit pull requests](https://github.com/auberginehill/list-my-apps-template-table/pulls) for bug fixes and features and discuss existing proposals.
 
 
 
