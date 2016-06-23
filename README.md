@@ -8,16 +8,11 @@
 </tbody></table>
 
 
-| Header 1       |  header 2                                                |
+|                |                                                          |
 | -------------  |  -------------                                           |
 | **OS:**        |  Android                                                 |
 | **Type:**      |  Template-file for an Android app called 'List My Apps'  |
 | **Language:**  |  mostly HTML (with extra variables)                      |
 
 
-
-
-| **OS:**        |  Android                                                 |
-| **Type:**      |  Template-file for an Android app called 'List My Apps'  |
-| **Language:**  |  mostly HTML (with extra variables)                      |
 
