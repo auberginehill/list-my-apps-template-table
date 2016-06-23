@@ -16,11 +16,12 @@
 
 - List My Apps custom templates consist of three fields ("List header", "Item format" and "List footer"). The template code in this project is divided into three parts, which correspond the fields found in List My Apps' Template Editor as described below: 
 
-   |  Filename                            |  Field in List My Apps' Template Editor  |
-   |  -------------                       |  -------------                           |
-   |  [file_header.txt](file_header.txt)  |  "List header, may be blank"             |
-   |  [body.txt](body.txt)                |  "Item format, may not be blank"         |
-   |  [file_footer.txt](file_footer.txt)  |  "List footer, may be blank"             |
+   |  Filename                            |  Field in List My Apps' Template Editor                     |
+   |  -------------                       |  -------------                                              |
+   |  [file_header.txt](file_header.txt)  |  "List header, may be blank"                                |
+   |  [body.txt](body.txt)                |  "Item format, may not be blank"                            |
+   |  [file_footer.txt](file_footer.txt)  |  "List footer, may be blank"                                |
+   |  [all_in_one.txt](all_in_one.txt)    |  Contains all the above mentioned three parts in one file.  |
 
 - A template inside a template doesn't work that well with variables that need to be presented "as they are" in code i.e. not triggered when running the actual script.
 
@@ -41,11 +42,12 @@ To open this code with an Android device, for instance:
 2. Type in a name for the template. [[Screenshot](http://groovyandroid.com/wp-content/uploads/2013/10/List-My-Apps-Template-Editor.png)]
 3. Paste all the appropriate template data (the three sections as specified below) to 'List My Apps' and save the template.
 
-   |  Filename                            |  Field in List My Apps' Template Editor  |
-   |  -------------                       |  -------------                           |
-   |  [file_header.txt](file_header.txt)  |  "List header, may be blank"             |
-   |  [body.txt](body.txt)                |  "Item format, may not be blank"         |
-   |  [file_footer.txt](file_footer.txt)  |  "List footer, may be blank"             |
+   |  Filename                            |  Field in List My Apps' Template Editor                     |
+   |  -------------                       |  -------------                                              |
+   |  [file_header.txt](file_header.txt)  |  "List header, may be blank"                                |
+   |  [body.txt](body.txt)                |  "Item format, may not be blank"                            |
+   |  [file_footer.txt](file_footer.txt)  |  "List footer, may be blank"                                |
+   |  [all_in_one.txt](all_in_one.txt)    |  Contains all the above mentioned three parts in one file.  |
 
 4. Go back to the 'List My Apps' -app's home screen and select the name that was created in Step 2 from the 'Copy/Share as:' -dropdown menu. Please also select the apps that you'd like to be included in the list. [[Screenshot](http://groovyandroid.com/wp-content/uploads/2013/10/List-My-App-HTML-list.png)]
 5. 'Run' the 'List My Apps' -app with the new template by copying the app data to Clipboard \[Copy\] (since direct sharing may not work, if a lot of applications has been installed).
@@ -59,8 +61,8 @@ To open this code with an Android device, for instance:
    - In a browser the spaces in the filename can be replaced with %20 to make the link work (there's an underscore in the example file's file name (and URL) above instead of a space character). For more exotic filename characters, see [HTML URL Encoding Reference](http://www.w3schools.com/tags/ref_urlencode.asp).
 10. Conversion from .html to .pdf might work with [Firefox (for Android)](https://play.google.com/store/apps/details?id=org.mozilla.firefox) (Options (three dots) &rarr; Page &rarr; Save as PDF) or perhaps with the printing option in the default File Manager.
   
-   |            |                                          |
-   |  --------  |  -------------                           |
+   |             |                                          |
+   |  --------   |  -------------                           |
    |  **Tip:**  |  To see the code in action, a real-time Online HTML Editor can be found at: <http://htmledit.squarefree.com/>  |
 
 
