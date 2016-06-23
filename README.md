@@ -65,6 +65,11 @@ To open this code with an Android device, for instance:
 
 
 
+#### Contributing
+Find a bug? Have a feature request? Please [create an Issue](https://github.com/auberginehill/list-my-apps-template-table/issues).
+
+
+
 #### www
 
 - [Template Homepage](https://github.com/auberginehill/list-my-apps-template-table)
@@ -84,8 +89,3 @@ To open this code with an Android device, for instance:
 - [List My Apps Template - Data](https://github.com/auberginehill/list-my-apps-template-data)
 - [List My Apps Template - XML plain](https://github.com/auberginehill/list-my-apps-template-xml-plain)
 - [List My Apps Template - XML style](https://github.com/auberginehill/list-my-apps-template-xml-style)
-
-
-
-#### Contributing
-Find a bug? Have a feature request? Please [create an Issue](https://github.com/auberginehill/list-my-apps-template-table/issues).
