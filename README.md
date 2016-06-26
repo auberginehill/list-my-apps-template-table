@@ -31,7 +31,7 @@
    </tr>
    <tr>
       <td><strong>Download:</strong></td>
-      <td>For instance, <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.md">all_in_one.md</a> and the same file in <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_header.md">three</a> <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/body.md">separate</a> <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_footer.md">parts</a>.</td>
+      <td>For instance, <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.txt">all_in_one.txt</a> and the same file in <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_header.txt">three</a> <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/body.txt">separate</a> <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_footer.txt">parts</a>.</td>
    </tr> 
 </table>
 
@@ -55,19 +55,19 @@
                             <td><strong>Field in List My Apps' Template Editor</strong></td>
                         </tr>
                         <tr>
-                            <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_header.md">file_header.md</a></td>
+                            <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_header.txt">file_header.txt</a></td>
                             <td>"List header, may be blank"</td>
                         </tr>
                         <tr>
-                            <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/body.md">body.md</a></td>
+                            <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/body.txt">body.txt</a></td>
                             <td>"Item format, may not be blank"</td>
                         </tr>
                         <tr>
-                            <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_footer.md">file_footer.md</a></td>
+                            <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_footer.txt">file_footer.txt</a></td>
                             <td>"List footer, may be blank"</td>
                         </tr>
                         <tr>
-                            <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.md">all_in_one.md</a></td>
+                            <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.txt">all_in_one.txt</a></td>
                             <td>Contains all the above mentioned three parts in one file.</td>
                         </tr>
                     </table>
@@ -119,19 +119,19 @@
                                     <td><strong>Field in List My Apps' Template Editor</strong></td>
                                 </tr>
                                 <tr>
-                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_header.md">file_header.md</a></td>
+                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_header.txt">file_header.txt</a></td>
                                     <td>"List header, may be blank"</td>
                                 </tr>
                                 <tr>
-                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/body.md">body.md</a></td>
+                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/body.txt">body.txt</a></td>
                                     <td>"Item format, may not be blank"</td>
                                 </tr>
                                 <tr>
-                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_footer.md">file_footer.md</a></td>
+                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_footer.txt">file_footer.txt</a></td>
                                     <td>"List footer, may be blank"</td>
                                 </tr>
                                 <tr>
-                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.md">all_in_one.md</a></td>
+                                    <td><a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.txt">all_in_one.txt</a></td>
                                     <td>Contains all the above mentioned three parts in one file.</td>
                                 </tr>
                             </table>
@@ -194,7 +194,7 @@
       <tr>
         <th><img class="emoji" title="bulb" alt="bulb" height="28" width="28" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a1.png"></th>
         <th>Tip:</th>
-        <td>To see the code (<a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.md">all_in_one.md</a>) in action, a real-time Online HTML Editor can be found at: <a href="http://htmledit.squarefree.com/">http://htmledit.squarefree.com/</a></td>
+        <td>To see the code (<a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.txt">all_in_one.txt</a>) in action, a real-time Online HTML Editor can be found at: <a href="http://htmledit.squarefree.com/">http://htmledit.squarefree.com/</a></td>
       </tr>
    </table>
 </ol>
