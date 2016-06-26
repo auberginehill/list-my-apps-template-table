@@ -31,7 +31,7 @@
    </tr>
    <tr>
       <td><strong>Download:</strong></td>
-      <td>For instance, <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.md">all_in_one.md</a></td>
+      <td>For instance, <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.md">all_in_one.md</a> and the same file in <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_header.md">three</a> <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/body.md">separate</a> <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_footer.md">parts</a>.</td>
    </tr> 
 </table>
 
@@ -211,7 +211,7 @@
       <td><a href="https://github.com/auberginehill/list-my-apps-template-table/issues">Submit bugs</a> and help us verify fixes.</td>
    </tr> 
    <tr>
-      <td rowspan="3"></td>
+      <td rowspan="2"></td>
       <td><strong>Feature Requests:</strong></td>
       <td>Feature request can be submitted by <a href="https://github.com/auberginehill/list-my-apps-template-table/issues">creating an Issue</a>.</td>
    </tr> 
@@ -219,10 +219,6 @@
       <td><strong>Edit Source Files:</strong></td>
       <td><a href="https://github.com/auberginehill/list-my-apps-template-table/pulls">Submit pull requests</a> for bug fixes and features and discuss existing proposals.</td>
    </tr>
-   <tr>
-      <td><strong>Download:</strong></td>
-      <td>For instance, <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.md">all_in_one.md</a></td>
-   </tr> 
  </table>   
 
 
