@@ -23,7 +23,7 @@
    </tr>
    <tr>
       <td><strong>Version:</strong></td>
-      <td>1.1</td>
+      <td>1.2</td>
    </tr>
    <tr>
       <td><strong>Sources:</strong></td>
