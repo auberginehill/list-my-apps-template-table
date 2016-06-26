@@ -29,6 +29,10 @@
       <td><strong>Sources:</strong></td>
       <td>Emojis: <a href="https://api.github.com/emojis">https://api.github.com/emojis</a></td>
    </tr>
+   <tr>
+      <td><strong>Download:</strong></td>
+      <td>For instance, <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.md">all_in_one.md</a></td>
+   </tr> 
 </table>
 
 
@@ -75,7 +79,7 @@
                         <li>File Footer ends before [End Of Line].</li>
                     </ul>
                     <br></li>
-                <li>However, if the template code has been copied from <a href="https://github.com/auberginehill/list-my-apps-template-table">this project</a> [dollar_sign] strings should be left as they are.</li>
+                <li>However, if the template code has been copied from this project [dollar_sign] strings should be left as they are.</li>
             </ul>
         </td>
     </tr>
@@ -215,7 +219,6 @@
       <td><strong>Edit Source Files:</strong></td>
       <td><a href="https://github.com/auberginehill/list-my-apps-template-table/pulls">Submit pull requests</a> for bug fixes and features and discuss existing proposals.</td>
    </tr>
-   <tr>
    <tr>
       <td><strong>Download:</strong></td>
       <td>For instance, <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.md">all_in_one.md</a></td>
