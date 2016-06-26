@@ -188,7 +188,6 @@ Body (body.txt):
                 <td><a href="https://duckduckgo.com/?q=${packagename}+%22${displayname}%22">DDG</a></td>
                 <td style="text-align:right"><strong>${displayname}</strong></td>
             </tr>
-        </tbody>
 
 
 
@@ -203,9 +202,10 @@ File Footer (file_footer.txt):
 
 
 
-  
 
   
+
+        </tbody>  
     </table>
     <br>
     <br>
