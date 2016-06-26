@@ -37,6 +37,8 @@
 
 
 
+#### Screenshot
+
 <img class="screenshot" title="screenshot" alt="screenshot" height="100%" width="100%" align="absmiddle" src="https://github.com/auberginehill/list-my-apps-template-table/blob/master/example.png">
 
 
