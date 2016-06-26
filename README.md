@@ -37,10 +37,13 @@
 
 <table>
     <tr>
-        <th><img class="emoji" title="remarks" alt="remarks" height="100%" width="100%" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a0.png"></th>
+        <th><img class="emoji" title="remarks" alt="remarks" height="28" width="28" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a0.png"></th>
+        <td><ul><li>List My Apps custom templates consist of three fields ("List header", "Item format" and "List footer"). The template code in this project is divided into three parts, which correspond the fields found in List My Apps' Template Editor as described below:</li></ul></td>
+   </tr>
+   <tr>
+        <td></td>
         <td>
             <ul>
-                <li>List My Apps custom templates consist of three fields ("List header", "Item format" and "List footer"). The template code in this project is divided into three parts, which correspond the fields found in List My Apps' Template Editor as described below:<br><br></li>
                 <ul>
                     <table>
                         <tr>
@@ -72,8 +75,7 @@
                         <li>File Footer ends before [End Of Line].</li>
                     </ul>
                     <br></li>
-                <li>However, if the template code has been copied from this project (i.e.
-                    <a href="https://github.com/auberginehill/list-my-apps-template-table">https://github.com/auberginehill/list-my-apps-template-table</a>) [dollar_sign] strings should be left as they are.</li>
+                <li>However, if the template code has been copied from <a href="https://github.com/auberginehill/list-my-apps-template-table">this project</a> [dollar_sign] strings should be left as they are.</li>
             </ul>
         </td>
     </tr>
@@ -85,7 +87,7 @@
 
 <table>
     <tr>
-        <th><img class="emoji" title="tutorial" alt="tutorial" height="30" width="30" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png"></th>
+        <th><img class="emoji" title="tutorial" alt="tutorial" height="28" width="28" align="absmiddle" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png"></th>
         <td>To open this code with an Android device, for instance:</td>
    </tr>
    <tr>
