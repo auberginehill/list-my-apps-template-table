@@ -31,7 +31,7 @@
    </tr>
    <tr>
       <td><strong>Download:</strong></td>
-      <td>For instance, <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.txt">all_in_one.txt</a> and the same file in <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_header.txt">three</a> <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/body.txt">separate</a> <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_footer.txt">parts</a>.</td>
+      <td>For instance, <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.txt">all_in_one.txt</a> or the same file in <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_header.txt">three</a> <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/body.txt">separate</a> <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/file_footer.txt">parts</a>.</td>
    </tr> 
 </table>
 
