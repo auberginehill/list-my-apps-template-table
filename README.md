@@ -140,7 +140,7 @@
                         the list. [<a href="http://groovyandroid.com/wp-content/uploads/2013/10/List-My-App-HTML-list.png">Screenshot</a>]</li>
                 </p>
                 <p>
-                    <li>'Run' the 'List My Apps' -app with the new template by copying the app data to Clipboard \[Copy\] (since direct sharing may not work, if a lot of applications has been installed).
+                    <li>'Run' the 'List My Apps' -app with the new template by copying the app data to Clipboard [Copy] (since direct sharing may not work, if a lot of applications has been installed).
                         <ul>
                             <li>There seems to be some kind of a limit, how much data the Android Clipboard can contain. With
                                 verbose templates ~200 apps might be the upper limit, but with a simple template, the Android
@@ -157,8 +157,8 @@
                             <li>If nothing happens (no data is pasted to a HTML editor after a few seconds), try selecting fewer
                                 apps in 'List My Apps' and go back to Step 5.</li>
                             <ul>
-                                <li>Depending on the hardware some lagging may occur when trying to paste, say ~10000 lines of
-                                    code, in an Android device.</li>
+                                <li>Depending on the device some lagging may occur when trying to paste, say ~10000 lines of
+                                    code.</li>
                             </ul>
                             <li>If "old data" gets pasted to a HTML editor (i.e. "the data that was in the Clipboard before List My Apps' 'Copy to Clipboard' -button was clicked"), try selecting fewer apps in 'List My Apps' and go back to Step 5.
                             </li>
@@ -207,7 +207,7 @@
       <td><a href="https://github.com/auberginehill/list-my-apps-template-table/issues">Submit bugs</a> and help us verify fixes.</td>
    </tr> 
    <tr>
-      <td rowspan="4"></td>
+      <td rowspan="3"></td>
       <td><strong>Feature Requests:</strong></td>
       <td>Feature request can be submitted by <a href="https://github.com/auberginehill/list-my-apps-template-table/issues">creating an Issue</a>.</td>
    </tr> 
@@ -216,9 +216,6 @@
       <td><a href="https://github.com/auberginehill/list-my-apps-template-table/pulls">Submit pull requests</a> for bug fixes and features and discuss existing proposals.</td>
    </tr>
    <tr>
-      <td><strong>Testing:</strong></td>
-      <td>Download a template from this repo and try it out in <a href="https://play.google.com/store/apps/details?id=de.onyxbits.listmyapps">List My Apps</a>.</td>
-   </tr> 
    <tr>
       <td><strong>Download:</strong></td>
       <td>For instance, <a href="https://github.com/auberginehill/list-my-apps-template-table/blob/master/all_in_one.md">all_in_one.md</a></td>
@@ -242,7 +239,7 @@
         <td><a href="http://www.onyxbits.de/listmyapps">List My Apps' homepage</a></td>
     </tr>
     <tr>
-        <td><a href="http://forum.xda-developers.com/showthread.php?t=2460266">List My Apps' application thread] at xda-developers.com</td>
+        <td><a href="http://forum.xda-developers.com/showthread.php?t=2460266">List My Apps' application thread</a> at xda-developers.com</td>
    </tr> 
    <tr>
       <td><a href="https://play.google.com/store/apps/details?id=com.aor.droidedit">DroidEdit Free</a> (free code editor)</td>
