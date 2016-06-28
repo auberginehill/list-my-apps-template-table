@@ -1,4 +1,8 @@
-﻿Permission is hereby granted, free of charge, to any person obtaining
+Public Domain
+
+This code is released into the "public domain" by its authors.
+
+Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
 "Software"), to deal in the Software without restriction, including
 without limitation the rights to use, copy, modify, merge, publish,
@@ -12,3 +16,7 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+[TL;DR] Anybody may use, alter and/or distribute this code without 
+any restrictions. The authors make no guarantees and take no 
+liability of any kind for use of this code.
