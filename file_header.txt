@@ -3,10 +3,10 @@
 
 <head>
 
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=0.7">
-    <meta name="Keywords" content="apps,applications,Android,HTML,Web development,tutorials,programming,training,learning,examples,source code,colors,demos,tips,template,templates">
-    <meta name="Description" content="A Table of Installed Applications">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.7" />
+    <meta name="Keywords" content="apps,applications,Android,HTML,Web development,tutorials,programming,training,learning,examples,source code,colors,demos,tips,template,templates" />
+    <meta name="Description" content="A Table of Installed Applications" />
 
     <title>The Enumeration Table of Installed Applications</title>
 
@@ -112,17 +112,17 @@
         </tr>
     </table>
     <p class="right_pane"><a href="#bottom">↓ Bottom ↓</a></p>
-    <br>
+    <br />
     <p>To see the code in action, a real-time Online HTML Editor can be found at: <a href="http://htmledit.squarefree.com/">http://htmledit.squarefree.com/</a></p>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
     <table id="main" border="1px" cellpadding="14" style="width:99%">
-        <caption><span style="font-family: 'Gill Sans', sans-serif; font-size:300%">The Enumeration Table of Installed Applications</span><br>
-            <br>
-            <br></caption>
+        <caption><span style="font-family: 'Gill Sans', sans-serif; font-size:300%">The Enumeration Table of Installed Applications</span><br />
+            <br />
+            <br /></caption>
         <thead>
             <tr>
                 <th style="text-align:left">Name</th>
@@ -139,8 +139,9 @@
                 <th>Version</th>
                 <th>Version Code</th>
                 <th>www</th>
-                <th>Search (Google)</th>
                 <th>Google Store</th>
+                <th>F-Droid</th>
+                <th>Search (Google)</th>
                 <th>Search (DDG)</th>
                 <th style="text-align:right">Name</th>
             </tr>
