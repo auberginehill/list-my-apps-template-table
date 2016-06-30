@@ -5,7 +5,7 @@
                 <td>${firstinstalled}</td>
                 <td>${lastupdated}</td>
                 <td>${marketid}</td>
-                <td>market://details?id=${packagename}</td>
+                <td><a href="market://details?id=${packagename}">Install</a></td>
                 <td>${packagename}</td>
                 <td>${targetsdk}</td>
                 <td>${uid}</td>
@@ -13,8 +13,10 @@
                 <td>${version}</td>
                 <td>${versioncode}</td>
                 <td><a href="${source}">Link</a></td>
-                <td><a href="https://www.google.com/search?q=${packagename}">Search</a></td>
                 <td><a href="https://play.google.com/store/apps/details?id=${packagename}">Store</a></td>
+                <td><a href="https://f-droid.org/repository/browse/?fdid=${packagename}">F-Droid</a></td>
+                <td><a href="https://www.google.com/search?q=${packagename}">Search</a></td>
                 <td><a href="https://duckduckgo.com/?q=${packagename}+%22${displayname}%22">DDG</a></td>
                 <td style="text-align:right"><strong>${displayname}</strong></td>
             </tr>
+            
